@@ -14,7 +14,7 @@ public class Iftikhar
     private static final int s_to_m = 60;
     private static final int m_to_h = 60;
     private static final int s_to_h = s_to_m * m_to_h;
-    
+      
     
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
